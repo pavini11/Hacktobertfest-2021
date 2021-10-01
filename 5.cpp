@@ -9,7 +9,7 @@ int min(int x, int y)
             (sizeof(int) * CHARBIT - 1)));
 }
  
-/*Function to find maximum of x and y*/
+/*Function to find  the maximum of x and y*/
 int max(int x, int y)
 {
     return x - ((x - y) & ((x - y) >>
