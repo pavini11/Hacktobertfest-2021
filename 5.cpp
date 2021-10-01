@@ -23,5 +23,5 @@ int main()
     cout<<"Minimum of "<<x<<" and "<<y<<" is ";
     cout<<min(x, y);
     cout<<"\nMaximum of"<<x<<" and "<<y<<" is ";
-    cout<<max(x, y)
+    cout<<max(x, y);
 }
